@@ -32,23 +32,40 @@ body{
 #l1{
     height: 70px;
     position:absolute;
-    transform: translate(1200px,-660px);
+    transform: translate(1220px,-660px);
 
 }
 #l2{
     position:absolute;
     height: 45px;
-    transform: translate(1230px,-590px);
+    transform: translate(1250px,-590px);
 }
 #l3{
     position: absolute;
     height: 50px;
     padding-top: 10px;
-    transform: translate(1230px,-545px);
+    transform: translate(1250px,-545px);
 }
 #l4{
     position: absolute;
     height: 50px;
     padding-top: 10px;
-    transform: translate(1230px,-490px);
+    transform: translate(1250px,-490px);
+}
+#l5{
+    position: absolute;
+    height: 45px;
+    padding-top: 10px;
+    transform: translate(1320px,-628px);
+}
+#l6{
+    position: absolute;
+    height: 40px;
+    padding-top: 10px;
+    transform: translate(1320px,-568px);
+}
+#l7{
+    position: absolute;
+    height: 40px;
+    transform: translate(1318px,-500px);
 }
