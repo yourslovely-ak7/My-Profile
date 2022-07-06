@@ -69,3 +69,24 @@ body{
     height: 40px;
     transform: translate(1318px,-500px);
 }
+#resume{
+    width: 800px;
+    position: absolute;
+    transform: translate(0px,-400px);
+    color: rgb(157, 244, 255);
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+@-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 4px rgb(255, 76, 76), 0 0 5px #fff, 0 0 6px #aa20ff, 0 0 7px #4f4fff, 0 0 8px #e60073, 0 0 9px #e7e7ff, 0 0 10px #ff158a;
+    }
+    to {
+      text-shadow: 0 0 10px #ff158a, 0 0 9px #e7e7ff, 0 0 8px #e60073, 0 0 7px #4f4fff, 0 0 6px #aa20ff, 0 0 5px #fff, 0 0 4px rgb(255,76,76);
+    }
+}
+#l8{
+    position: absolute;
+    height: 60px;
+    transform: translate(640px,-380px);
+}
