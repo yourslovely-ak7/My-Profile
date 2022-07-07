@@ -4,8 +4,8 @@ body{
     margin-bottom: 0px;
 }
 #img{
-    height:300px;
-    width: 1537px;
+    height:305px;
+    width: 1534px;
     margin-left: -10px;
     margin-top: -10px;
 }
@@ -13,15 +13,15 @@ body{
     background: linear-gradient(to right, #00b3ff 0%, #ffffff 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-    transform:translate(420px,-200px);
-    font-size: 40px;
+    transform:translate(420px,-250px);
+    font-size: 44px;
     width: 400px;
 }
 #dp{
     height: 250px;
     width: 250px;
     border-radius: 60%;
-    transform: translate(130px,-380px);
+    transform: translate(100px,-380px);
 }
 #c{
     transform: translate(1198px,-650px);
@@ -69,24 +69,55 @@ body{
     height: 40px;
     transform: translate(1318px,-500px);
 }
-#resume{
-    width: 800px;
+.b{
+    height: 50px;
+    width: 130px;
+}
+.b:hover{
+    background-image:none !important;
+    background-color:rgb(41, 48, 255) !important;
+}
+#b1{
     position: absolute;
     transform: translate(0px,-400px);
-    color: rgb(157, 244, 255);
-    -webkit-animation: glow 1s ease-in-out infinite alternate;
-    animation: glow 1s ease-in-out infinite alternate;
+    background-color:black;
 }
-@-webkit-keyframes glow {
-    from {
-      text-shadow: 0 0 4px rgb(255, 76, 76), 0 0 5px #fff, 0 0 6px #aa20ff, 0 0 7px #4f4fff, 0 0 8px #e60073, 0 0 9px #e7e7ff, 0 0 10px #ff158a;
-    }
-    to {
-      text-shadow: 0 0 10px #ff158a, 0 0 9px #e7e7ff, 0 0 8px #e60073, 0 0 7px #4f4fff, 0 0 6px #aa20ff, 0 0 5px #fff, 0 0 4px rgb(255,76,76);
-    }
+#a1{
+    text-decoration-line: none;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
 }
-#l8{
+#b2{
     position: absolute;
-    height: 60px;
-    transform: translate(640px,-380px);
+    transform: translate(150px,-400px);
+    background-color:black;
+}
+#a2{
+    text-decoration-line: none;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+#b3{
+    position: absolute;
+    transform: translate(300px,-400px);
+    background-color:black;
+}
+#a3{
+    text-decoration-line: none;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+#b4{
+    position: absolute;
+    transform: translate(450px,-400px);
+    background-color:black;
+}
+#a4{
+    text-decoration-line: none;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
 }

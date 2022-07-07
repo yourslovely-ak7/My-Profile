@@ -1,0 +1,116 @@
+body{
+    background-color: aqua;
+}
+#img1{
+    height: 900px;
+    width: 1520px;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+#t1{
+    font-size: 70px;
+    position: absolute;
+    transform: translate(580px,-930px);
+    color: crimson;
+    text-shadow: 2px 4px 6px white;
+}
+#t2{
+    font-size: 70px;
+    position: absolute;
+    transform: translate(650px,-920px);
+    color: aliceblue;
+    text-shadow: 2px 4px 6px crimson;
+}
+#t3{
+    font-size: 70px;
+    position: absolute;
+    transform: translate(700px,-930px);
+    color: crimson;
+    text-shadow: 2px 4px 6px white;
+}
+#t4{
+    font-size: 70px;
+    position: absolute;
+    transform: translate(755px,-920px);
+    color: aliceblue;
+    text-shadow: 2px 4px 6px crimson;
+}
+#t5{
+    font-size: 70px;
+    position: absolute;
+    transform: translate(790px,-930px);
+    color: crimson;
+    text-shadow: 2px 4px 6px white;
+}
+#t6{
+    font-size: 70px;
+    position: absolute;
+    transform: translate(830px,-920px);
+    color: aliceblue;
+    text-shadow: 2px 4px 6px crimson;
+}
+#t7{
+    font-size: 70px;
+    position: absolute;
+    transform: translate(870px,-930px);
+    color: crimson;
+    text-shadow: 2px 4px 6px white;
+}
+#t8{
+    font-size: 70px;
+    position: absolute;
+    transform: translate(893px,-920px);
+    color: aliceblue;
+    text-shadow: 2px 4px 6px crimson;
+}#t9{
+    font-size: 70px;
+    position: absolute;
+    transform: translate(926px,-930px);
+    color: crimson;
+    text-shadow: 2px 4px 6px white;
+}
+#sidenav{
+    background-color:pink;
+    color: black;
+    height: 430px;
+    width: 220px;
+    font-size: 25px;
+    position:fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+}
+#img2{
+    height: 300px;
+    width: 440px;
+    position: absolute;
+    transform: translate(0px,-360px);
+}
+.name{
+    padding-top: 30px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.pic{
+    height: 650px;
+    width: 750px;
+}
+#end{
+    background-color: black;
+    height: 100px;
+    width: 1500px;
+    color: white;
+    font-size: 70px;
+}
+#topic{
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 10px;
+}
+#Gpara{
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transform: translate(780px,-520px);
+    width: 500px;
+    height: 700px;
+}
